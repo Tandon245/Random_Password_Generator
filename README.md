@@ -6,7 +6,7 @@ This Java program generates random passwords with a specified length, ensuring a
 
 - Generates random passwords with specified length.
 - Ensures each generated password contains at least one of each character type: lowercase, uppercase, digit, and special character.
-- Uses `SecureRandom` for cryptographically strong random number generation.
+- Uses <a href="https://docs.oracle.com/javase/8/docs/api/java/security/SecureRandom.html">`SecureRandom`</a>  for cryptographically strong random number generation.
 - Shuffles the characters in the password for better randomness.
 - Customizable password length.
 
