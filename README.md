@@ -24,3 +24,5 @@ This Java program generates random passwords with a specified length, ensuring a
    ```shell
    javac Main.java
    java Main
+Set the desired password length by modifying the `passWordLength` variable in the `Main` class's `main` method.
+Enjoy your securely generated random password!
